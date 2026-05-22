@@ -1,0 +1,6 @@
+{
+  "name": "Among Us RL",
+  "description": "An immersive Among Us in Real Life Companion. Complete interactive tasks, trigger emergency alarms with cool synthetic sounds, scan for nearby crewmates with simulated Bluetooth, and manage roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
